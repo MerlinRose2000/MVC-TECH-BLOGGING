@@ -62,6 +62,26 @@ For installation of the dependencies, please run the following command in the te
 
 To start the application type the following command in the terminal: `npm run seed`, and then `npm start` or `node server.js`
 
+## Screenshots
+
+<p>Main page before logging in</p>
+<img alt="Main page before logging in" src="utils/images/before-login.png">
+
+<p>The login/registration page</p>
+<img alt="The login/registration page" src="utils/images/login-registration.png">
+
+<p>Main page after logging in</p>
+<img alt="Main page after logging in" src="utils/images/after-login.png">
+
+<p>A blog page with comments</p>
+<img alt="A blog page with comments" src="utils/images/blog-page.png">
+
+<p>The dashboard before a blog is made</p>
+<img alt="The dashboard before a blog is made" src="utils/images/dashboard1.png">
+
+<p>The dashboard after a blog is made</p>
+<img alt="The dashboard after a blog is made" src="utils/images/dashboard2.png">
+
 ## Link
 
 https://mvc-tech-blogging.netlify.app/
